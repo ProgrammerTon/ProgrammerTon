@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/pattarapol na netra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pattarapol na netra" height="30" width="40" /></a>
+<a href="https://www.facebook.com/pattarapol.nanetra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pattarapol na netra" height="30" width="40" /></a>
 <a href="https://instagram.com/tn_levi36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tn_levi36" height="30" width="40" /></a>
 </p>
 
