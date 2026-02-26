@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **-**
 
-- 👨‍💻 All of my projects are available at [portlink](portlink)
+<!--- 👨‍💻 All of my projects are available at [portlink](portlink) -->
 
 - 📫 How to reach me **pattarapol.nanetra@gmail.com**
 
-- 📄 Know about my experiences [resumelink](resumelink)
+<!--- 📄 Know about my experiences [resumelink](resumelink) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
