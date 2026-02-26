@@ -1,8 +1,6 @@
 <h1 align="center">Hello 👋, I'm Pattarapol Na Netra. You may refer to me as Tonnam.</h1>
 <h3 align="center">I am seeking a role in Full-stack Web Development and Data Engineering.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=programmerton&label=Profile%20views&color=0e75b6&style=flat" alt="programmerton" /> </p>
-
 - 🌱 I’m currently learning **-**
 
 <!--- 👨‍💻 All of my projects are available at [portlink](portlink) -->
