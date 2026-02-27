@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Pattarapol Na Netra. You may refer to me as Tonnam.</h1>
-<h3 align="center">I am seeking a role in Full-stack Web Development and Data Engineering.</h3>
+<!--<h3 align="center">I am seeking a role in Full-stack Web Development and Data Engineering.</h3>-->
 
-- 🌱 I’m currently learning **-**
+<!--- 🌱 I’m currently learning **-**-->
 
 <!--- 👨‍💻 All of my projects are available at [portlink](portlink) -->
 
